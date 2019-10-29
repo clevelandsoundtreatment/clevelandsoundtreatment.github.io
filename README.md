@@ -1,2 +1,2 @@
 # clevelandsoundtreatment.github.io
-Websiter
+Website
